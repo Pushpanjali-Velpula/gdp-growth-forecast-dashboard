@@ -40,3 +40,7 @@ Install the required packages:
 
 ```bash
 pip install -r requirements.txt
+```
+## Live Application
+
+https://gdp-growth-forecast-dashboard-eketgsbw2mffdbqxk4ablc.streamlit.app/
