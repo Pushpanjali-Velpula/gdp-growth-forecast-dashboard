@@ -44,3 +44,8 @@ pip install -r requirements.txt
 ## Live Application
 
 https://gdp-growth-forecast-dashboard-eketgsbw2mffdbqxk4ablc.streamlit.app/
+
+## Power BI Dashboard
+
+The interactive Power BI dashboard is included in this repository as:
+- Economic_Growth_Forecasting.pbix
